@@ -1,0 +1,373 @@
+﻿<rubrics schemaversion="v2011">
+    <rubric id="1" name="T1 2018 Assessment 1.2 Rubric" type="1" scoring_method="3" display_levels_in_des_order="False" state="0" usage_restrictions="Competency,ePortfolio">
+        <description text_type="text/html">
+            <text></text>
+        </description>
+        <criteria_groups>
+            <criteria_group name="Criteria" sort_order="1">
+                <level_set>
+                    <levels>
+                        <level name="No/poor attempt" sort_order="1" level_id="711969" />
+                        <level name="Needs improvement" sort_order="2" level_id="711968" />
+                        <level name="Satisfactory" sort_order="3" level_id="711967" />
+                        <level name="Good" sort_order="4" level_id="711966" />
+                        <level name="Very good" sort_order="5" level_id="711965" />
+                        <level name="Excellent" sort_order="6" level_id="711964" />
+                    </levels>
+                </level_set>
+                <criteria>
+                    <criterion name="Report Table of Contents (TOC) is relevant to the set A1.3 tasks for examining required organization, ULO2 – GLO2, (1 mark)." sort_order="1">
+                        <cells>
+                            <cell level_id="711969" cell_value="0.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Poor attempt at developing a Table of Contents, incorrect order of sections or majority of sections are not included.&lt;/p&gt;
+&lt;p&gt;(0-0.2 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711968" cell_value="0.300000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Does not follow the required TOC structure, with some sections not included or in the wrong order.&lt;/p&gt;
+&lt;p&gt;(0.3-0.4 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711967" cell_value="0.500000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;An attempt is made to follow the required TOC structure.&lt;/p&gt;
+&lt;p&gt;Most sections are included but some inconsistencies exist in the layout.&lt;/p&gt;
+&lt;p&gt;(0.5-0.5 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711966" cell_value="0.600000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;A good attempt is made to follow the required TOC structure.&lt;/p&gt;
+&lt;p&gt;Most sections are included and layout is consistent within the table.&lt;/p&gt;
+&lt;p&gt;(0.6-0.6 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711965" cell_value="0.700000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;A very good attempt is made to follow the required TOC structure.&lt;/p&gt;
+&lt;p&gt;All sections are included and layout is consistent within the table.&lt;/p&gt;
+&lt;p&gt;(0.7-0.7 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711964" cell_value="1.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Excellent use of the TOC structure/ format.&lt;/p&gt;
+&lt;p&gt;All sections are in included and layout is clear and consistent within the table.&lt;/p&gt;
+&lt;p&gt;(0.8-1 mark)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                        </cells>
+                    </criterion>
+                    <criterion name="Discussion of academic theory and concepts about the ‘general environment’ and analysis relevant to required organisation in 2017/8, ULO3 – GLO4, (4 marks)." sort_order="2">
+                        <cells>
+                            <cell level_id="711969" cell_value="0.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories and their application to the chosen organisation are not clear.&lt;/p&gt;
+&lt;p&gt;(0-1.1 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711968" cell_value="1.200000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories and their application to the chosen organisation may be slightly unclear or poorly applied.&lt;/p&gt;
+&lt;p&gt;(1.2-1.9 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711967" cell_value="2.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories relevant to this task and their application to the chosen organisation are provided without ambiguity&lt;/p&gt;
+&lt;p&gt;(2-2.3 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711966" cell_value="2.400000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories relevant to this task and their application to the chosen organisation are clear and quite well-reasoned.&lt;/p&gt;
+&lt;p&gt;(2.4-2.7 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711965" cell_value="2.800000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories relevant to this task and their application to the chosen organisation are clear, well-reasoned and systematic.&lt;/p&gt;
+&lt;p&gt;(2.8-3.1 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711964" cell_value="4.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;The fundamental theories relevant to this task and their application to the chosen organisation are clear, systematic and comprehensive.&lt;/p&gt;
+&lt;p&gt;(3.2-4 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                        </cells>
+                    </criterion>
+                    <criterion name="Cites text and suitable academic journal article, ULO2 – GLO2, (1 mark)." sort_order="3">
+                        <cells>
+                            <cell level_id="711969" cell_value="0.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;No text and no suitable academic journal article.&lt;/p&gt;
+&lt;p&gt;(0-0.2 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711968" cell_value="0.300000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;One of either but not both text and suitable academic journal article.&lt;/p&gt;
+&lt;p&gt;(0.3-0.4 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711967" cell_value="0.500000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both text and academic journal article.&lt;/p&gt;
+&lt;p&gt;(0.5-0.5 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711966" cell_value="0.600000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both text and relevant academic journal article.&lt;/p&gt;
+&lt;p&gt;(0.6-0.6 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711965" cell_value="0.700000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both text and highly relevant management academic journal article.&lt;/p&gt;
+&lt;p&gt;(0.7-0.7 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711964" cell_value="1.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both text and highly relevant well applied management academic journal article(s).&lt;/p&gt;
+&lt;p&gt;(0.8-1 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                        </cells>
+                    </criterion>
+                    <criterion name="Direct and indirect quotations using Deakin Harvard referencing style, ULO2 – GLO2, (1 mark)." sort_order="4">
+                        <cells>
+                            <cell level_id="711969" cell_value="0.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;No quotations included and/or most entries not compliant with Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0-0.2 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711968" cell_value="0.300000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;One of either but not both direct and indirect quotations included and/or are not compliant with Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0.3-0.4 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711967" cell_value="0.500000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both direct and indirect quotations included and are partially compliant with Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0.5-0.5 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711966" cell_value="0.600000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both direct and indirect quotations included and are mostly compliant with most Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0.6-0.6 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711965" cell_value="0.700000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both direct and indirect quotations included and are very compliant with Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0.7-0.7 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711964" cell_value="1.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Both direct and indirect quotations included and in-text citations are completely error free.&lt;/p&gt;
+&lt;p&gt;(0.8-1 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                        </cells>
+                    </criterion>
+                    <criterion name="Reference lists of sources suitable to use in this task and planned for the Business Report using Deakin Harvard referencing style, ULO1 – GLO1, ULO2 – GLO2, (3 marks)." sort_order="5">
+                        <cells>
+                            <cell level_id="711969" cell_value="0.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;No academic journal articles relating to the tasks and/or reference lists not included or most entries not compliant with most Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0-0.8 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711968" cell_value="0.900000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Fewer than three academic journal articles relate well to the tasks and/or reference lists not compliant with many of the Harvard referencing guidelines.&lt;/p&gt;
+&lt;p&gt;(0.9-1.4 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711967" cell_value="1.500000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Fewer than four journal articles relate satisfactorily to the task and reference lists mostly complies with Harvard guidelines.&lt;/p&gt;
+&lt;p&gt;Suitable organisational source and text included.&lt;/p&gt;
+&lt;p&gt;(1.5-1.7 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711966" cell_value="1.800000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;At least four journal articles relate well to the task and reference lists compliant with mainly the Harvard guidelines.&lt;/p&gt;
+&lt;p&gt;Suitable organisational source and text included.&lt;/p&gt;
+&lt;p&gt;(1.8-2 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711965" cell_value="2.100000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Five or more journal articles relate well to the task and reference lists compliant with Harvard guidelines.&lt;/p&gt;
+&lt;p&gt;Suitable organisational source and text included.&lt;/p&gt;
+&lt;p&gt;(2.1-2.3 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                            <cell level_id="711964" cell_value="3.000000000">
+                                <description text_type="text/html">
+                                    <text>&lt;p&gt;Five or more exceptionally well-selected journal articles in relation to the task and reference lists completely error free.&lt;/p&gt;
+&lt;p&gt;Excellent organisational source and text included.&lt;/p&gt;
+&lt;p&gt;(2.4-3 marks)&lt;/p&gt;</text>
+                                </description>
+                                <feedback text_type="text/html">
+                                    <text />
+                                </feedback>
+                            </cell>
+                        </cells>
+                    </criterion>
+                </criteria>
+            </criteria_group>
+        </criteria_groups>
+        <overall_level_set>
+            <overall_levels>
+                <overall_level name="N" sort_order="6" range_start_value="0.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+                <overall_level name="N" sort_order="5" range_start_value="3.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+                <overall_level name="P" sort_order="4" range_start_value="5.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+                <overall_level name="C" sort_order="3" range_start_value="6.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+                <overall_level name="D" sort_order="2" range_start_value="7.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+                <overall_level name="HD" sort_order="1" range_start_value="8.000000000">
+                    <description text_type="text">
+                        <text />
+                    </description>
+                    <feedback text_type="text">
+                        <text />
+                    </feedback>
+                </overall_level>
+            </overall_levels>
+        </overall_level_set>
+    </rubric>
+</rubrics>
